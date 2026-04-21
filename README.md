@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Sreeharsha 👋
 
-<!--
-**Sreeharsha0188/Sreeharsha0188** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech Student | Aspiring Software Developer  
 
-Here are some ideas to get you started:
+## 💻 Skills
+- Python
+- Java
+- Data Structures & Algorithms (Basics)
+- Problem Solving
+- OOP Fundamentals
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- Calculator Web App (HTML, CSS, JavaScript)
+- Python Mini Projects (Guessing Game, Password Generator)
+- DSA Practice (Basic Problems)
+
+## 🚀 Currently Learning
+- Improving DSA
+- Building more real-world projects
+
+## 📫 Contact
+- GitHub: https://github.com/Sreeharsha0188
