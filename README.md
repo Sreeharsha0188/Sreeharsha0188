@@ -1,6 +1,6 @@
 # Hi, I'm Sreeharsha 👋
 
-🎓 BTech Student | Aspiring Software Developer  
+ Aspiring Software Developer  
 
 ## 💻 Skills
 - Python
